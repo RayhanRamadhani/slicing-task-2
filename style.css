@@ -33,22 +33,3 @@ span {
 .shadow-cpink {
     box-shadow: 0 8px 16px 0 rgba(255, 65, 65, 0.755);
 }
-
-.div-cardplan { 
-    flex-wrap: wrap;
-    gap: 5px;
-    height: 700px;
-    width: 300px;
-    padding-left: 3%;
-    padding-right: 3%;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    justify-content: center;
-    align-items: center;
-    border-radius: 15px;
-    display: block;
-    background-color: white;
-    outline: #E8E8E8;
-    outline-width: 2px;
-    outline-style: solid;
-}
